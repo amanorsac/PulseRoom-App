@@ -12,6 +12,8 @@ A free desktop &amp; mobile toolkit for music producers. Drop in a song or tap y
 
 ### [⬇ Download the latest version](../../releases/latest)
 
+### [🌐 Try the delay calculator online](https://amanorsac.github.io/PulseRoom-App/)
+
 </div>
 
 ---
